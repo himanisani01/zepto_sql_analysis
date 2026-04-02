@@ -65,10 +65,15 @@ Run zepto.sql top to bottom — schema setup → cleaning → analysis
 zepto-sql-analysis/
 │
 ├── zepto.sql            # All queries: exploration, cleaning & analysis
+
 ├── README.md            # Project documentation
+
 └── dataset/
     └── zepto_v1.csv     # Raw product dataset
+    
 
 👤 Author-Himani
+
 Email-himanisaini2601@gmail.com
+
 Linkedin-https://www.linkedin.com/in/himani-s-6326311b5
